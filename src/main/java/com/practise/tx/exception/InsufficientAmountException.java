@@ -1,4 +1,4 @@
-package com.javatechie.tx.exception;
+package com.practise.tx.exception;
 
 public class InsufficientAmountException extends RuntimeException {
 

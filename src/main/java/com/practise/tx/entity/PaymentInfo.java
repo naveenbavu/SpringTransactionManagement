@@ -1,4 +1,4 @@
-package com.javatechie.tx.entity;
+package com.practise.tx.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

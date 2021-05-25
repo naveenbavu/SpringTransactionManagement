@@ -1,17 +1,14 @@
-package com.javatechie.tx.service;
+package com.practise.tx.service;
 
-import com.javatechie.tx.dto.FlightBookingAcknowledgement;
-import com.javatechie.tx.dto.FlightBookingRequest;
-import com.javatechie.tx.entity.PassengerInfo;
-import com.javatechie.tx.entity.PaymentInfo;
-import com.javatechie.tx.repository.PassengerInfoRepository;
-import com.javatechie.tx.repository.PaymentInfoRepository;
-import com.javatechie.tx.utils.PaymentUtils;
+import com.practise.tx.dto.FlightBookingAcknowledgement;
+import com.practise.tx.dto.FlightBookingRequest;
+import com.practise.tx.entity.PassengerInfo;
+import com.practise.tx.entity.PaymentInfo;
+import com.practise.tx.repository.PassengerInfoRepository;
+import com.practise.tx.repository.PaymentInfoRepository;
+import com.practise.tx.utils.PaymentUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import org.springframework.transaction.annotation.Isolation;
-import org.springframework.transaction.annotation.Propagation;
-import org.springframework.transaction.annotation.Transactional;
 
 import java.util.UUID;
 

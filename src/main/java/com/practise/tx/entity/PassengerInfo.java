@@ -1,4 +1,4 @@
-package com.javatechie.tx.entity;
+package com.practise.tx.entity;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import lombok.AllArgsConstructor;

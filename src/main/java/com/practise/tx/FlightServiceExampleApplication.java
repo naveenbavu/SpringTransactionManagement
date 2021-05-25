@@ -1,8 +1,8 @@
-package com.javatechie.tx;
+package com.practise.tx;
 
-import com.javatechie.tx.dto.FlightBookingAcknowledgement;
-import com.javatechie.tx.dto.FlightBookingRequest;
-import com.javatechie.tx.service.FlightBookingService;
+import com.practise.tx.dto.FlightBookingAcknowledgement;
+import com.practise.tx.dto.FlightBookingRequest;
+import com.practise.tx.service.FlightBookingService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

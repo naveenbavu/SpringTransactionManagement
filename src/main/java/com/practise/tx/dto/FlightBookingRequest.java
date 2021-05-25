@@ -1,7 +1,7 @@
-package com.javatechie.tx.dto;
+package com.practise.tx.dto;
 
-import com.javatechie.tx.entity.PassengerInfo;
-import com.javatechie.tx.entity.PaymentInfo;
+import com.practise.tx.entity.PassengerInfo;
+import com.practise.tx.entity.PaymentInfo;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

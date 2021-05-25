@@ -1,6 +1,6 @@
-package com.javatechie.tx.utils;
+package com.practise.tx.utils;
 
-import com.javatechie.tx.exception.InsufficientAmountException;
+import com.practise.tx.exception.InsufficientAmountException;
 
 import java.util.HashMap;
 import java.util.Map;
